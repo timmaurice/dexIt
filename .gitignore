@@ -1,7 +1,11 @@
+.git/
+.sass-cache/
+bower_components/
+node_modules/
+
 #################
 ## Eclipse
 #################
-
 *.pydevproject
 .project
 .metadata
